@@ -48,8 +48,8 @@ global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+254111240210']
 global.ownertag = '+254111240210' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
+global.botname = 𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎' //ur bot name
+global.packname = "𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎r" // sticker packname
 global.author = "𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ 𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎 ]' //
