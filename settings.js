@@ -14,7 +14,7 @@ global.APIKeys = {
 global.alivemsg = `𝗠𝗮𝘀𝗸𝗲𝗱 𝗕𝗲𝘁𝘁𝗼𝗿 𝗛𝗲𝗿𝗲 𝗛𝗼𝘄 𝗠𝗮𝘆 𝗜 𝗛𝗲𝗹𝗽 𝗬𝗼𝘂!!!!😉` //Costomize Alive Message (type your message in `` )
 
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -28,7 +28,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+254111240210'] // owner number
+global.vcardowner = ['+254113831200'] // owner number
 global.ownername = "𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: street005" // github or insta name
@@ -46,7 +46,7 @@ global.upsongvoice = "false" // true/false \\ bot can upload song as voice note 
 global.welcom_msg = "false" // Welcome / Goodbye   [true/false]
 
 
-global.owner = ['+254111240210']
+global.owner = ['+254113831200']
 global.ownertag = '+254111240210' //your tag number
 global.botname = 𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎' //ur bot name
 global.packname = "𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎r" // sticker packname
@@ -55,7 +55,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ 𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️💚💎 ]' //
 
 //database
-global.premium = ['+254713113875'] //ur premium numbers
+global.premium = ['+254111240210'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
