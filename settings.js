@@ -58,7 +58,7 @@ global.footer = '[ ◉ 𝐌𝐀𝐒𝐊𝐄𝐃 𝐁𝐄𝐓𝐓𝐎𝐑™️�
 global.premium = ['+254111240210'] //ur premium numbers
 
 //other
-global.sessionName = 'session'
+global.sessionName = 'Masked Bot '
 global.antitags = false
 global.prefa = ['!'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
